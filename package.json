@@ -1,0 +1,16 @@
+{
+  "name": "private-access",
+  "version": "1.0.0",
+  "description": "Automatic private symbol creator.",
+  "main": "es6/index.js",
+  "scripts": {
+    "test": "echo 0"
+  },
+  "keywords": [
+    "private",
+    "classes",
+    "accessor"
+  ],
+  "author": "Tyler Williams <tyler.williams.it@gmail.com>",
+  "license": "MIT"
+}
