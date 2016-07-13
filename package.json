@@ -3,14 +3,15 @@
   "version": "1.0.0",
   "description": "Automatic private symbol creator.",
   "main": "es6/index.js",
-  "scripts": {
-    "test": "echo 0"
+  "author": "Tyler Williams <tyler.williams.it+npm@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tylerbwilliams/private-access.git"
   },
+  "license": "MIT",
   "keywords": [
     "private",
     "classes",
     "accessor"
-  ],
-  "author": "Tyler Williams <tyler.williams.it@gmail.com>",
-  "license": "MIT"
+  ]
 }
